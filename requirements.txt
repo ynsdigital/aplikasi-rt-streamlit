@@ -1,0 +1,4 @@
+streamlit
+pandas
+passlib[bcrypt]
+psycopg2-binary
